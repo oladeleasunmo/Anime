@@ -1,0 +1,28 @@
+.j-c-c {
+    justify-content: center;
+}
+.j-c-b {
+    justify-content: space-between;
+}
+.calculator {
+    border: 1px solid #000;
+    width: 300px;
+    margin: 0 auto;
+    padding: 50px 40px 50px;
+}
+.screen {
+    width: 100%;
+    border: 1px solid #000;
+    height: 70px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+button {
+    width: 70px;
+    padding: 0;
+    height:  30px;
+    margin-bottom: 10px;
+}
+.w-100 {
+    width: 100%;
+}

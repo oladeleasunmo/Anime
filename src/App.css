@@ -3,7 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  /* height: 40vmin; */
+  font-size: 75px;
+  line-height: 1.5em;
   pointer-events: none;
 }
 
